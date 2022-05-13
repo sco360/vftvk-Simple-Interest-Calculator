@@ -1,4 +1,27 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+    padding: 10px;
+}
+h1{
+    color: grey;
+    font-family: Verdana;
+}
 
+footer {
+    padding: 10px;
+}
 
+#maindiv{
+    background-color: white;
+    color: black;
+    width: 500px;
+    padding: 30px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+#result_nums{
+    background-color: yellow;
+}
